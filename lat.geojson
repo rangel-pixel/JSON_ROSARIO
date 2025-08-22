@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "lat",
 "features": [
 { "type": "Feature", "properties": { "ID": "1", "X": -32.94303, "Y": -60.65588, "Name": "CORDOBA" }, "geometry": { "type": "Point", "coordinates": [ -60.65588, -32.94303 ] } },
 { "type": "Feature", "properties": { "ID": "2", "X": -32.93387, "Y": -60.82064, "Name": "FARMA 10" }, "geometry": { "type": "Point", "coordinates": [ -60.82064, -32.93387 ] } },

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": {"Name": "CORDOBA" }, "geometry": { "type": "Point", "coordinates": [ -60.65588, -32.94303 ] } },
+{ "type": "Feature", "properties": {"Name": "FARMA 10" }, "geometry": { "type": "Point", "coordinates": [ -60.82064, -32.93387 ] } },
+{ "type": "Feature", "properties": {"Name": "FARMA 4" }, "geometry": { "type": "Point", "coordinates": [ -60.65845, -32.96503 ] } },
+{ "type": "Feature", "properties": {"Name": "FARMA 6" }, "geometry": { "type": "Point", "coordinates": [ -60.77749, -32.91959 ] } },
+{ "type": "Feature", "properties": {"Name": "FARMA 7 (MITTER)" }, "geometry": { "type": "Point", "coordinates": [ -60.66374, -32.9235 ] } },
+{ "type": "Feature", "properties": {"Name": "FARMA 9" }, "geometry": { "type": "Point", "coordinates": [ -60.72495, -32.93118 ] } },
+{ "type": "Feature", "properties": {"Name": "FARMACIA FARMA 8" }, "geometry": { "type": "Point", "coordinates": [ -60.63818, -32.94389 ] } },
+{ "type": "Feature", "properties": {"Name": "FISHERTON" }, "geometry": { "type": "Point", "coordinates": [ -60.73593, -32.92907 ] } },
+{ "type": "Feature", "properties": {"Name": "GHEZZI" }, "geometry": { "type": "Point", "coordinates": [ -60.64706, -32.96905 ] } },
+{ "type": "Feature", "properties": {"Name": "PELLEGRINI" }, "geometry": { "type": "Point", "coordinates": [ -60.64217, -32.95704 ] } }
+]
+}
